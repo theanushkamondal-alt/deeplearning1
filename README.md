@@ -1,3 +1,5 @@
+# digitclassifier
+
 > MNIST Interactive Digit Recognizer
 
 A Convolutional Neural Network (CNN) built using TensorFlow/Keras that
@@ -58,3 +60,4 @@ Learning Outcomes
 
 This project demonstrates CNNs, computer vision basics, image
 preprocessing, and real-world AI inference.
+
